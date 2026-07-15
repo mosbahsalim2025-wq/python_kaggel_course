@@ -8,5 +8,6 @@ I am learning Python on Kaggle. I created this repository to save my progress an
 * **exercise-booleans-and-conditionals.ipynb** (Lesson 3)
 * **exercise-lists.ipynb** (Lesson 4)
 * **exercise-loops-and-list-comprehensions.ipynb** (Lesson 5)
+* **exercise-strings-and-dictionaries.ipynb** (Lesson 6)
 
-*Note: Working on Lesson 6 (Strings and Dictionaries) right now. I will upload it when I finish.*
+*Note: Currently working on Lesson 7 (Working with External Libraries).*
